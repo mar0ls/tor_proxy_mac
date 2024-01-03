@@ -20,7 +20,7 @@ all requirment installed automatically if not present
 2. Run the following command to download and execute the script:
 
     ```bash
-    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mar0ls/your-repository/main/tor-proxy.sh)"
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mar0ls/tor-proxy.sh)"
     ```
 
 3. Follow the on-screen instructions to install Homebrew, Tor, and configure the SOCKS proxy.
